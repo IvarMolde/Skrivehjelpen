@@ -1,0 +1,5 @@
+{
+  "name": "Skrivehjelpen",
+  "description": "En AI-drevet app for voksne elever som lærer norsk. Lim inn teksten din, velg ditt CEFR-nivå (A1-B2), og motta detaljert, konstruktiv tilbakemelding for å forbedre skriveferdighetene dine. Appen kan også lese opp tilbakemeldingen.",
+  "requestFramePermissions": []
+}
